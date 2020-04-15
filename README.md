@@ -2,7 +2,7 @@
 Repositório com exemplo de um terraform modulado para subir um ambiente de Kubernet na AWS.
 
 - Baixe o repositório
-- Parametrize os dados que deseja em main.tf
+- Parametrize os dados de configuração da infra para EKS no main.tf
 - Execute terraform apply
 
 
