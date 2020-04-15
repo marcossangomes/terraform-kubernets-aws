@@ -1,0 +1,9 @@
+variable "name" {}
+variable "associate_public_ip_address" {}
+variable "iam_instance_profile" {}
+variable "image_id" {}
+variable "instance_type" {}
+variable "name_prefix" {}
+variable "security_groups" {}
+variable "aws_eks_cluster_demo_endpoint" {}
+variable "aws_eks_cluster_demo_certificate" {}
